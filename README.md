@@ -11,3 +11,12 @@
   p {
     color: blue;
   }
+
+  Selectores de Atributo
+Selector de Atributo
+Descripción: Selecciona elementos que tienen un atributo específico.
+Ejemplo de código:
+
+a[href] {
+  text-decoration: none;
+}
